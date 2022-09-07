@@ -1,2 +1,2 @@
 # musicfy-app
-Replica de Spotify para r
+Replica de Spotify para practicar con Electron
